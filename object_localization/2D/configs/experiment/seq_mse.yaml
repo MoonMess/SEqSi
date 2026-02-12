@@ -1,0 +1,3 @@
+equiv: scale-equiv
+criterion: norm_MSE
+norm_type: mean-std

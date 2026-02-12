@@ -1,0 +1,4 @@
+equiv: seqsi
+criterion: norm_MSE
+norm_type: mean-std
+

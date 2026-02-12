@@ -1,0 +1,3 @@
+equiv: ordinary
+criterion: norm_MSE
+norm_type: mean-std

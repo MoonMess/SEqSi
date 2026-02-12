@@ -1,0 +1,8 @@
+default:
+  - _self_
+
+range: 0,1
+input_dir: ""
+output_dir: ""
+model_dir: ""
+which_model: none

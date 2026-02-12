@@ -1,0 +1,2 @@
+type: All
+aug: "affine,scale,shift,noise,gamma,affine_saturated,shift_saturated,scale_saturated"

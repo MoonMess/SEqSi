@@ -1,0 +1,18 @@
+defaults:
+  - _self_
+  - experiment: norm_equiv_mse
+
+
+seed: 1
+data:
+  train_set: "path to train set"
+  val_set: "path to val set"
+  patch_size: 128
+
+parameters:
+  batch_size: 64
+  lr: 0.0001
+  nb_epochs: 1000
+
+save:
+  path: "path to storing dir for model"

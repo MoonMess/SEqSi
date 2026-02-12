@@ -1,0 +1,2 @@
+equiv: norm-equiv
+criterion: BCE_with_logit

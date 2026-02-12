@@ -1,0 +1,9 @@
+default:
+  - _self_
+
+input_dir: ""
+output_dir: ""
+models_dir: ""
+which_model: none
+tiles: 1,1,1
+group_idx: 1

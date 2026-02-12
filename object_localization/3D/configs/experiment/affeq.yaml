@@ -1,0 +1,3 @@
+equiv: norm-equiv
+criterion: norm_MSE
+norm_type: mean-std

@@ -1,0 +1,2 @@
+type: Naff
+aug: "affine_saturated,scale_saturated,shift_saturated,noise,gamma"

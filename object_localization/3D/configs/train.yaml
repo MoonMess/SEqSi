@@ -1,0 +1,20 @@
+defaults:
+  - _self_
+  - experiment: seqsi_mse
+  - data_aug: none
+data:
+  train_set: ""
+  val_set: ""
+  patch_size: 90
+
+parameters:
+  batch_size: 4
+  lr: 0.0001
+  nb_epochs: 6000
+
+exp_group: 0
+
+save:
+  path: ""
+
+tag: ""
