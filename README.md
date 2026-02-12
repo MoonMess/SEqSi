@@ -1,4 +1,4 @@
-# Code Repository Overview
+# SEqSI Neural Network
 
 This repository contains the source code for the experiments presented in our paper : **Designing Affine-Invariant Neural Networks for Photometric Corruption Robustness and Generalization**.
 
