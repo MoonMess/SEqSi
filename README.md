@@ -76,3 +76,22 @@ This repository requires different environments for its main components to manag
 -   **CZI Classification (`classification/czi/`)**: This project also requires a separate environment. Please install the packages from `classification/czi/environment.yml`.
 
 -   **Object Localization (`object_localization/`)**: Both 2D and 3D localization experiments share a single environment. Please install the packages from `object_localization/requirements.txt`.
+
+The repository is structured as follows:
+
+-   `./classification/`: Contains all code related to the classification experiments. (CIFAR-10 and CZI)
+-   `./object_localization/`: Contains all code related to the localization experiments. (Science Bowl 2018 and 3D fluerescence microscopy)
+
+## Acknowledgements
+This work was support by Agence Nationale de la Recherche (ANR-23-CE45-0012-02). Access to the HPC resources of IDRIS was granted under the allocation 2025-AD011015932R1 made by GENCI.
+
+## Citation
+@inproceedings{
+messaoudi2026designing,
+title={Designing Affine-Invariant Neural Networks for Photometric Corruption Robustness and Generalization},
+author={Mounir Messaoudi and Quentin Rapilly and S{\'e}bastien Herbreteau and Ana{\"\i}s Badoual and Charles Kervrann},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=fhEwTOLYNZ}
+}
+
