@@ -86,7 +86,7 @@ The repository is structured as follows:
 This work was support by Agence Nationale de la Recherche (ANR-23-CE45-0012-02). Access to the HPC resources of IDRIS was granted under the allocation 2025-AD011015932R1 made by GENCI.
 
 ## Citation
-''' bash
+'''bash
 @inproceedings{
 messaoudi2026designing,
 title={Designing Affine-Invariant Neural Networks for Photometric Corruption Robustness and Generalization},
